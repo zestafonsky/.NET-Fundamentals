@@ -1,6 +1,7 @@
-﻿
+﻿using ClassLibrary;
 
 
-Console.WriteLine("Please enter your name:");
+Console.WriteLine("Username:");
 string username = Console.ReadLine();
-Console.WriteLine("Hello {0}", name);
+string current_time = Date.Now();
+Console.WriteLine($"{current_time} Hello,  {username}!");
