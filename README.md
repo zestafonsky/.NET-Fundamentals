@@ -1,5 +1,22 @@
 # .NET Fundamentals
-In this module, you will go through .NET ecosystem, its implementations and get an overview of the cross-platform development options via multitargeting. As a result of the module, you will create two projects in .NET Framework and .NET Core and a shared library.
+
+Questions for the self-check:
+
+What is break mode? What are the options to step through code?
+
+How to ignore some exceptions during debugging?
+
+How to set up conditional breakpoint?
+
+What is data breakpoint?
+
+What is trace point and how to use it?
+
+What are pdb files, when are they created and how to use them?
+
+What is symbol server?
+
+What are debug and release build configurations?
 
 # Task 1:
 
