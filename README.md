@@ -17,6 +17,6 @@ Output: “Hello, {username}” (via form or separate window)
 
 Create a .NET standard library which will handle “hello world” concatenation logic. Add this library for both projects. Change the output to following: “{current_time} Hello, {username}!”
 
-Task 3 (extra, not scored): 
+# Task 3 (extra, not scored): 
 
 Create Xamarin or MAUI hello world applications. 
