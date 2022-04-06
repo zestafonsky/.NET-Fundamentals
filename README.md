@@ -1,4 +1,4 @@
-# Description
+# .NET Fundamentals
 In this module, you will go through .NET ecosystem, its implementations and get an overview of the cross-platform development options via multitargeting. As a result of the module, you will create two projects in .NET Framework and .NET Core and a shared library.
 
 # Task 1:
