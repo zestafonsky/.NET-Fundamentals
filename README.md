@@ -4,19 +4,19 @@ In this module, you will go through .NET ecosystem, its implementations and get 
 
 ### Questions for the self-check:
 
-What does the .NET ecosystem provide?
+1. What does the .NET ecosystem provide?
 
-What are .NET implementations? Which ones are used nowadays?
+2. What are .NET implementations? Which ones are used nowadays?
 
-What is CLR?
+3. What is CLR?
 
-Why is .NET 5 a bit of a special version?
+4. Why is .NET 5 a bit of a special version?
 
-Which technologies are supported by the .NET framework?
+5. Which technologies are supported by the .NET framework?
 
-Does cross-platform development is possible in .NET? What about cross-platform UI?
+6. Does cross-platform development is possible in .NET? What about cross-platform UI?
 
-What does the multitargeting term mean?
+7. What does the multitargeting term mean?
 
 ### Task 1:
 
