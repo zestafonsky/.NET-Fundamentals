@@ -1,6 +1,8 @@
 # .NET Fundamentals
 
-## Questions for the self-check:
+In this module, you will go through .NET ecosystem, its implementations and get an overview of the cross-platform development options via multitargeting. As a result of the module, you will create two projects in .NET Framework and .NET Core and a shared library.  
+
+### Questions for the self-check:
 
 What does the .NET ecosystem provide?
 
@@ -16,7 +18,7 @@ Does cross-platform development is possible in .NET? What about cross-platform U
 
 What does the multitargeting term mean?
 
-## Task 1:
+### Task 1:
 
 Create 3 basic applications for the following .NET platforms:
 
