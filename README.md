@@ -1,6 +1,6 @@
 # .NET Fundamentals
 
-Questions for the self-check:
+## Questions for the self-check:
 
 What does the .NET ecosystem provide?
 
@@ -16,7 +16,7 @@ Does cross-platform development is possible in .NET? What about cross-platform U
 
 What does the multitargeting term mean?
 
-# Task 1:
+## Task 1:
 
 Create 3 basic applications for the following .NET platforms:
 
@@ -28,10 +28,10 @@ Input: {username} (for console app – as a command line parameter)
 
 Output: “Hello, {username}” (via form or separate window) 
 
-# Task 2:  
+## Task 2:  
 
 Create a .NET standard library which will handle “hello world” concatenation logic. Add this library for both projects. Change the output to following: “{current_time} Hello, {username}!”
 
-# Task 3 (extra, not scored): 
+## Task 3 (extra, not scored): 
 
 Create Xamarin or MAUI hello world applications. 
