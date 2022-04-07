@@ -2,21 +2,19 @@
 
 Questions for the self-check:
 
-What is break mode? What are the options to step through code?
+What does the .NET ecosystem provide?
 
-How to ignore some exceptions during debugging?
+What are .NET implementations? Which ones are used nowadays?
 
-How to set up conditional breakpoint?
+What is CLR?
 
-What is data breakpoint?
+Why is .NET 5 a bit of a special version?
 
-What is trace point and how to use it?
+Which technologies are supported by the .NET framework?
 
-What are pdb files, when are they created and how to use them?
+Does cross-platform development is possible in .NET? What about cross-platform UI?
 
-What is symbol server?
-
-What are debug and release build configurations?
+What does the multitargeting term mean?
 
 # Task 1:
 
