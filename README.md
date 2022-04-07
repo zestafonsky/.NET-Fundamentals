@@ -45,22 +45,21 @@ Create Xamarin or MAUI hello world applications.
 ## Self-study Materials
 
 ### Ecosystem
-https://dzone.com/articles/a-brief-walk-through-net-ecosystem
+[A Brief Walk-Through of the .NET Ecosystem](https://dzone.com/articles/a-brief-walk-through-net-ecosystem)
 
-https://stackify.com/net-ecosystem-demystified
+[The .NET Ecosystem Demystified](https://stackify.com/net-ecosystem-demystified)
 
 ### Implementation
-.NET implementations overview
 
-https://docs.microsoft.com/en-us/dotnet/standard/components#net-implementations
+#### [.NET implementations overview](https://docs.microsoft.com/en-us/dotnet/standard/components#net-implementations)
 
-Ecosystem and Implementation (30min, specific sections of the course)
+#### Ecosystem and Implementation
 
-https://www.linkedin.com/learning/navigating-dot-net-and-dot-net-standard-for-cross-platform-development/the-evolution-of-dot-net
+[Navigating .NET and .NET Standard for Cross-Platform Development](https://www.linkedin.com/learning/navigating-dot-net-and-dot-net-standard-for-cross-platform-development/the-evolution-of-dot-net)
 
 https://www.linkedin.com/learning/navigating-dot-net-and-dot-net-standard-for-cross-platform-development/modern-dot-net-implementations
 
-.NET Framework vs .NET Core vs .NET vs .NET Standard vs C#
+#### .NET Framework vs .NET Core vs .NET vs .NET Standard vs C#
 
 https://www.youtube.com/watch?v=79UWvR734wI
 
