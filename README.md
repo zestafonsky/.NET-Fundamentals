@@ -67,7 +67,7 @@ https://www.youtube.com/watch?v=79UWvR734wI
 ### Portability and Multitargeting
 Cross-Platform development in .NET
 
-https://www.fearofoblivion.com/understanding-cross-platform-NET-and-why-NET-5-is-important
+[Understanding cross platform .NET, and why .NET 5 is important](https://www.fearofoblivion.com/understanding-cross-platform-NET-and-why-NET-5-is-important)
 
 https://stackify.com/cross-platform-net-core-apps
 
