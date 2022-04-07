@@ -51,13 +51,13 @@ Create Xamarin or MAUI hello world applications.
 
 ### Implementation
 
-#### [.NET implementations overview](https://docs.microsoft.com/en-us/dotnet/standard/components#net-implementations)
+[.NET Implementations Overview](https://docs.microsoft.com/en-us/dotnet/standard/components#net-implementations)
 
 #### Ecosystem and Implementation
 
-[Navigating .NET and .NET Standard for Cross-Platform Development](https://www.linkedin.com/learning/navigating-dot-net-and-dot-net-standard-for-cross-platform-development/the-evolution-of-dot-net)
+..* [Navigating .NET and .NET Standard for Cross-Platform Development](https://www.linkedin.com/learning/navigating-dot-net-and-dot-net-standard-for-cross-platform-development/the-evolution-of-dot-net)
 
-https://www.linkedin.com/learning/navigating-dot-net-and-dot-net-standard-for-cross-platform-development/modern-dot-net-implementations
+..*  [Modern .NET Implementations](https://www.linkedin.com/learning/navigating-dot-net-and-dot-net-standard-for-cross-platform-development/modern-dot-net-implementations)
 
 #### .NET Framework vs .NET Core vs .NET vs .NET Standard vs C#
 
